@@ -1,0 +1,31 @@
+C:\Users\Artyom\source\repos\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\WPF Flappy Bird.csproj.AssemblyReference.cache
+C:\Users\Artyom\source\repos\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\MainWindow.g.cs
+C:\Users\Artyom\source\repos\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\App.g.cs
+C:\Users\Artyom\source\repos\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\WPF Flappy Bird_MarkupCompile.cache
+C:\Users\Artyom\source\repos\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\WPF Flappy Bird_MarkupCompile.lref
+C:\Users\Artyom\source\repos\WPF Flappy Bird\WPF Flappy Bird\bin\Debug\WPF Flappy Bird.exe.config
+C:\Users\Artyom\source\repos\WPF Flappy Bird\WPF Flappy Bird\bin\Debug\WPF Flappy Bird.exe
+C:\Users\Artyom\source\repos\WPF Flappy Bird\WPF Flappy Bird\bin\Debug\WPF Flappy Bird.pdb
+C:\Users\Artyom\source\repos\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\MainWindow.baml
+C:\Users\Artyom\source\repos\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\WPF Flappy Bird.g.resources
+C:\Users\Artyom\source\repos\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\WPF_Flappy_Bird.Properties.Resources.resources
+C:\Users\Artyom\source\repos\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\WPF Flappy Bird.csproj.GenerateResource.cache
+C:\Users\Artyom\source\repos\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\WPF Flappy Bird.csproj.CoreCompileInputs.cache
+C:\Users\Artyom\source\repos\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\WPF Flappy Bird.exe
+C:\Users\Artyom\source\repos\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\WPF Flappy Bird.pdb
+D:\bird\WPF Flappy Bird\WPF Flappy Bird\bin\Debug\WPF Flappy Bird.exe.config
+D:\bird\WPF Flappy Bird\WPF Flappy Bird\bin\Debug\WPF Flappy Bird.exe
+D:\bird\WPF Flappy Bird\WPF Flappy Bird\bin\Debug\WPF Flappy Bird.pdb
+D:\bird\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\WPF Flappy Bird.csproj.AssemblyReference.cache
+D:\bird\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\MainWindow.g.cs
+D:\bird\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\App.g.cs
+D:\bird\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\WPF Flappy Bird_Content.g.cs
+D:\bird\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\WPF Flappy Bird_MarkupCompile.cache
+D:\bird\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\WPF Flappy Bird_MarkupCompile.lref
+D:\bird\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\MainWindow.baml
+D:\bird\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\WPF Flappy Bird.g.resources
+D:\bird\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\WPF_Flappy_Bird.Properties.Resources.resources
+D:\bird\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\WPF Flappy Bird.csproj.GenerateResource.cache
+D:\bird\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\WPF Flappy Bird.csproj.CoreCompileInputs.cache
+D:\bird\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\WPF Flappy Bird.exe
+D:\bird\WPF Flappy Bird\WPF Flappy Bird\obj\Debug\WPF Flappy Bird.pdb
